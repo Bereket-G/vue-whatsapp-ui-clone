@@ -1,24 +1,6 @@
-# tail-wind-with-vue-starter
+# tailwind-wiz-vue-starter
 
-## Project setup
-```
-yarn install
-```
+ A boiler plate for tailwind css with Vue.js .
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![Tailwindcss-Vue](https://user-images.githubusercontent.com/19642322/75235996-34dd0180-57ce-11ea-9266-cd3862c3925a.jpg)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
